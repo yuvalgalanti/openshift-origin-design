@@ -1,11 +1,15 @@
 ## OpenShift 4.2 Designs
 Access design documentation for features slotted in the 4.2 release of OpenShift. Click links below for specific section details.
 
+- [API Explorer](http://openshift.github.io/openshift-origin-design/web-console/future-openshift/api-explorer/api-explorer)
 - [Command Line Tools](http://openshift.github.io/openshift-origin-design/web-console/future-openshift/command-line-tools/command-line-tools)
 - [Console Customizations](http://openshift.github.io/openshift-origin-design/web-console/future-openshift/console-customizations/console-customizations)
 - [Contextual Help](http://openshift.github.io/openshift-origin-design/web-console/future-openshift/contextual-help/contextual-help)
+- [Cron Jobs](http://openshift.github.io/openshift-origin-design/web-console/future-openshift/cron-jobs/cron-jobs)
 - [Dashboards and Projects](http://openshift.github.io/openshift-origin-design/web-console/future-openshift/dashboards/dashboards)
+- [Diagnostics (WIP)](https://docs.google.com/document/d/11rQliTE7fdyqDWFc5F-w-jCBRxxNBymngidQ6xlCiws/edit?usp=sharing)
 - [Image Commands](http://openshift.github.io/openshift-origin-design/web-console/future-openshift/image-commands/image-commands)
+- [Import YAML](http://openshift.github.io/openshift-origin-design/web-console/future-openshift/import-yaml/import-yaml)
 - [Machines](http://openshift.github.io/openshift-origin-design/web-console/future-openshift/machines/machines)
 - [Metrics](http://openshift.github.io/openshift-origin-design/web-console/monitoring/metrics/metrics)
 - [Nodes](http://openshift.github.io/openshift-origin-design/web-console/future-openshift/nodes/nodes)
@@ -13,11 +17,19 @@ Access design documentation for features slotted in the 4.2 release of OpenShift
 - [Operators Overview](http://openshift.github.io/openshift-origin-design/web-console/future-openshift/operators-overview/operators-overview)
 - [Taints and Tolerations](http://openshift.github.io/openshift-origin-design/web-console/future-openshift/taints-tolerations/taints-tolerations)
 
+### OpenShift Container Storage
+- [OCS Install workflow](http://openshift.github.io/openshift-origin-design/web-console/Storage/OCS/OCS%20_Installation_Workflow)
+- [OB & OBC Lifecycle Management](http://openshift.github.io/openshift-origin-design/web-console/Storage/OB-OB-Lifecycle-Management/OB-OBC-Lifecycle)
+- [Object Storage Dashboard](http://openshift.github.io/openshift-origin-design/web-console/4.0-designs/storage/object-storage-dashboard/object-storage-dashboard)
+
 ### KNI and KubeVirt Designs
 [Access design documentation specific to the KNI and Kubevirt features in the OpenShift Console.](http://openshift.github.io/openshift-origin-design/web-console/knikubevirt/knikubevirt)
 
 ### Developer Perspective
 [Access design documentation specific to the developer perspective of OpenShift.](http://openshift.github.io/openshift-origin-design/web-console/developer/developer)
+
+### OpenShift Cluster Manager
+[Index of mockups for OCM](https://docs.google.com/document/d/13G1d9tvOhIz0DDt4NyuavhCUSTmPR3z1uUEQIpaVvAA/edit#)
 
 ## Future OpenShift Designs
 Access design documentation for features coming in future releases, post OpenShift 4.2
@@ -52,7 +64,8 @@ Access design documentation for features slotted in the 4.0 release of OpenShift
   * [Overview](http://openshift.github.io/openshift-origin-design/web-console/4.0-designs/overview/overview)
   * [Dashboard](http://openshift.github.io/openshift-origin-design/web-console/4.0-designs/dashboard/dashboard)
 - [Resource Quota](http://openshift.github.io/openshift-origin-design/web-console/4.0-designs/resource-quota/resource-quota)
-- [Storage](http://openshift.github.io/openshift-origin-design/web-console/4.0-designs/storage/storage)
+* Storage
+	- [Storage Classes](http://openshift.github.io/openshift-origin-design/web-console/4.0-designs/storage/storage)
 - [User Menu](http://openshift.github.io/openshift-origin-design/web-console/4.0-designs/user/user)
 - [YAML Editor](http://openshift.github.io/openshift-origin-design/web-console/4.0-designs/edit-yaml/edit-yaml)
 - [YAML Import](http://openshift.github.io/openshift-origin-design/web-console/4.0-designs/import-yaml/import-yaml)
